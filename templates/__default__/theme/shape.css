@@ -50,6 +50,9 @@ body {
 
 @media (min-width: 1025px) { .content-wrapper { width: 1024px; } }
 @media (min-width: 1367px) { .content-wrapper { width: 1280px; } }
+@media (min-width: 1680px) { .content-wrapper { width: 1440px; } }
+@media (min-width: 1920px) { .content-wrapper { width: 1600px; } }
+@media (min-width: 2560px) { .content-wrapper { width: 1920px; } }
 
 /* --- Visits counter --- */
 #visit-counter {
